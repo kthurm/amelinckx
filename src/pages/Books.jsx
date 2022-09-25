@@ -6,7 +6,7 @@ const Books = () => {
     <div>
       <div className="container-lg">
         <h1>Books</h1>
-        <div className="space lg:mb-10"></div>
+        <div className="space lg:h-20"></div>
         <HomeBook />
       </div>
       <BookGrid />
