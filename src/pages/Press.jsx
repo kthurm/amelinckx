@@ -1,7 +1,35 @@
 const Press = () => {
   return (
     <div className="container-lg flex flex-col space-y-6">
-      <h1>Press</h1>
+      <h1>Media Inquiries </h1>
+      <p className="pb-5">
+        For media inquiries, review copies or author appearances for “Satellite
+        Boy,” please contact:
+        <br />
+        <strong>Lena Moses-Schmitt</strong>
+        <br />
+        Assistant Director of Publicity <br />
+        Counterpoint / Soft Skull / Catapult
+        <br />
+        2560 Ninth Street, Suite 318
+        <br />
+        Berkeley, CA 94710
+        <br />
+        lena.moses-schmitt@counterpointpress.com
+        <br />
+      </p>
+      <p className="pb-5">
+        For Andrew’s other books please contact: <br />
+        <strong>Kait Leggett</strong>
+        <br />
+        Sales & Marketing Coordinator
+        <br />
+        Arcadia Publishing & the History Press
+        <br />
+        kleggett@arcadiapublishing.com
+        <br />
+      </p>
+      <h1>Press </h1>
       <p>
         The Ivy League Murders{" "}
         <a href="https://share.transistor.fm/s/97cad913">
