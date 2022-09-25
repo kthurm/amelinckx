@@ -1,30 +1,37 @@
-import Satellite from "../images/satellite-boy.png";
+import SatelliteFlat from "../images/satellite-boy-flat.png";
 
-const SatelliteBook = () => {
+const HomeBook = () => {
   return (
-    <div className="bg-[#faf6eb] relative w-full z-20">
-      <div className="max-w-screen-lg w-full mx-auto flex flex-col md:flex-row px-5">
-        <div className="md:w-1/3 relative -mt-20">
-          <img src={Satellite} alt="Satellite Boy" class="" />
-          <p class="py-2 text-center text-sm px-5">
-            Preorder Satellite Boy via Penguin Random House.
+    <div className="bg-background relative w-full z-20 pb-10">
+      <div className="container-lg w-full mx-auto flex flex-col md:flex-row md:space-x-10 px-5">
+        <div className="md:w-1/3 relative lg:-mt-20">
+          <img
+            src={SatelliteFlat}
+            alt="Satellite Boy"
+            className="mx-auto max-w-[240px] shadow-[15px_16px_33px_-14px_rgba(0,0,0,0.75)] lg:mb-10 rounded-sm"
+          />
+          <p class="hidden md:block py-2 text-center text-sm px-5">
+            Preorder Satellite Boy via{" "}
+            <a href="https://www.penguinrandomhouse.com/books/719641/satellite-boy-by-andrew-ameliinckx/">
+              &nbsp;Penguin Random House.
+            </a>
           </p>
         </div>
-        <div className="md:w-2/3 text-center md:text-left md:mt-10">
+        <div className="md:w-2/3 text-center md:text-left lg:mt-10 lg:pr-10 ">
           <div className="text-3xl uppercase font-bold">Satellite Boy</div>
           <div className="font-bold text-sm py-5 italic">
             The International Manhunt for a Master Thief That Launched the
             Modern Communication Age
           </div>
-          <div className="font-light text-left text-sm">
-            <p class="py-2">
+          <div className="flex flex-col space-y-4 font-light text-left text-sm">
+            <p>
               Spanning the hemisphere from the underworld haunts of Montreal to
               Havana and Miami in the early days of the Cold War, Satellite Boy
               reveals the unlikely connection between an audacious bank heist
               and the other Space Race that gave birth to the modern
               communication age.
             </p>
-            <p class="py-2">
+            <p>
               On April 6, 1965, Georges Lemay was relaxing on his yacht in a
               south Florida marina following one of the largest and most daring
               bank heists in Canadian history. For four years, the roguishly
@@ -32,7 +39,7 @@ const SatelliteBook = () => {
               and the combined efforts of the FBI, Interpol, and the Royal
               Canadian Mounted Police. His future appeared secure.
             </p>
-            <p class="py-2">
+            <p>
               What Lemay didn’t know was that less than two hundred miles away
               at Cape Canaveral, a brilliant engineer named Harold Rosen was
               about to usher in the age of global live television with the
@@ -41,14 +48,19 @@ const SatelliteBook = () => {
               Rosen’s extraordinary accomplishment would not only derail Lemay’s
               cushy life but change the world forever.
             </p>
-            <p class="py-2">
+            <p>
               Brimming with criminal panache and technological intrigue, and set
               against a turbulent and iconic period that includes the moon
               landing and the Civil Rights movement, Satellite Boy tells the
               largely forgotten, high-stakes story of the two equally driven men
               who inadvertently launched the modern era.
             </p>
-            Photo Credits: Beth Schneck (https://www.bschneckphoto.com/)
+            <p>
+              Preorder Satellite Boy via
+              <a href="https://www.penguinrandomhouse.com/books/719641/satellite-boy-by-andrew-ameliinckx/">
+                &nbsp;Penguin Random House.
+              </a>
+            </p>
           </div>
         </div>
       </div>
@@ -56,4 +68,4 @@ const SatelliteBook = () => {
   );
 };
 
-export default SatelliteBook;
+export default HomeBook;
