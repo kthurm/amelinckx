@@ -12,7 +12,11 @@ const HomeBook = () => {
           />
           <p class="hidden md:block py-2 text-center text-sm px-5">
             Preorder Satellite Boy via{" "}
-            <a href="https://www.penguinrandomhouse.com/books/719641/satellite-boy-by-andrew-ameliinckx/">
+            <a
+              href="https://www.penguinrandomhouse.com/books/719641/satellite-boy-by-andrew-ameliinckx/"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
               &nbsp;Penguin Random House.
             </a>
           </p>
@@ -57,7 +61,11 @@ const HomeBook = () => {
             </p>
             <p>
               Preorder Satellite Boy via
-              <a href="https://www.penguinrandomhouse.com/books/719641/satellite-boy-by-andrew-ameliinckx/">
+              <a
+                href="https://www.penguinrandomhouse.com/books/719641/satellite-boy-by-andrew-ameliinckx/"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
                 &nbsp;Penguin Random House.
               </a>
             </p>

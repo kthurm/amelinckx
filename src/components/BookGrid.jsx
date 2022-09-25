@@ -50,8 +50,17 @@ const BookGrid = () => {
               </p>
 
               <p>
-                Published by <strong>America Through Time</strong> (March 29,
-                2021).
+                Published by{" "}
+                <strong>
+                  <a
+                    href="https://www.through-time.com/collections/andrew-amelinckx"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                  >
+                    America Through Time
+                  </a>
+                </strong>{" "}
+                (March 29, 2021).
               </p>
 
               <p>
@@ -61,22 +70,28 @@ const BookGrid = () => {
                   href="https://amzn.to/3APXMsx"
                   target="_blank"
                 >
-                  Amazon
+                  Amazon,&nbsp;
                 </a>
-                ,{" "}
-                <a href="https://www.arcadiapublishing.com/books?searchText=exquisite%20wickedness">
-                  Arcadia Publishing
+                <a
+                  href="https://www.arcadiapublishing.com/books?searchText=exquisite%20wickedness"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
+                  Arcadia Publishing,&nbsp;
                 </a>
-                ,{" "}
                 <a
                   rel="noreferrer noopener"
                   href="https://www.barnesandnoble.com/w/exquisite-wickedness-andrew-amelinckx/1137897900?ean=9781634993036"
                   target="_blank"
                 >
-                  Barnes &amp; Noble
+                  Barnes &amp; Noble,
                 </a>
-                , &nbsp;
-                <a href="https://www.target.com/p/exquisite-wickedness-america-through-time-by-andrew-amelinckx-paperback/-/A-82565567">
+                &nbsp;
+                <a
+                  href="https://www.target.com/p/exquisite-wickedness-america-through-time-by-andrew-amelinckx-paperback/-/A-82565567"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
                   Target
                 </a>
               </p>
@@ -109,7 +124,7 @@ const BookGrid = () => {
               <p>
                 Published by
                 <a
-                  href="https://www.arcadiapublishing.com/9781626197985/Gilded-Age-Murder--Mayhem-in-the-Berkshires"
+                  href="https://www.arcadiapublishing.com/Products/9781467136433"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -121,14 +136,17 @@ const BookGrid = () => {
                 Available through:
                 <a
                   rel="noopener noreferrer"
-                  href="http://amzn.to/2oP2vZw"
+                  href="https://amzn.to/2oP2vZw"
                   target="_blank"
                 >
                   {" "}
-                  Amazon
+                  Amazon,&nbsp;
                 </a>
-                ,&nbsp;
-                <a href="http://www.barnesandnoble.com/w/hudson-valley-murder-mayhem-andrew-k-amelinckx/1125875024?ean=9781467136433">
+                <a
+                  href="https://www.barnesandnoble.com/w/hudson-valley-murder-mayhem-andrew-k-amelinckx/1125875024?ean=9781467136433"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
                   Barnes and Noble,
                 </a>
                 &nbsp;
@@ -144,7 +162,7 @@ const BookGrid = () => {
                   href="https://www.powells.com/book/-9781540216663"
                   target="_blank"
                 >
-                  Powells,
+                  Powells
                 </a>
               </p>
             </div>
@@ -190,36 +208,38 @@ const BookGrid = () => {
                 Available through:{" "}
                 <a
                   rel="noopener noreferrer"
-                  href="http://amzn.to/1OxArRS"
+                  href="https://amzn.to/1OxArRS"
                   target="_blank"
                 >
-                  Amazon
+                  Amazon,&nbsp;
                 </a>
-                ,{" "}
                 <a
                   rel="noopener noreferrer"
                   href="https://www.arcadiapublishing.com/9781626197985/Gilded-Age-Murder--Mayhem-in-the-Berkshires"
                   target="_blank"
                 >
-                  Arcadia Publishing,{" "}
+                  Arcadia Publishing,&nbsp;
                 </a>
-                <a href="http://www.barnesandnoble.com/w/gilded-age-murder-mayhem-in-the-berkshires-andrew-k-amelinckx/1122450288?ean=9781626197985">
-                  Barnes and Noble
-                </a>
-                ,&nbsp;
                 <a
-                  rel="noopener noreferrer"
-                  href="http://www.littlecitybooks.com/book/9781626197985"
+                  href="https://www.barnesandnoble.com/w/gilded-age-murder-mayhem-in-the-berkshires-andrew-k-amelinckx/1122450288?ean=9781626197985"
                   target="_blank"
+                  rel="noreferrer noopener"
                 >
-                  Little City Books,{" "}
+                  Barnes and Noble,&nbsp;
                 </a>
                 <a
                   rel="noopener noreferrer"
-                  href="http://www.powells.com/biblio/62-9781626197985-0"
+                  href="https://www.littlecitybooks.com/book/9781626197985"
                   target="_blank"
                 >
-                  <em>Powell</em>s
+                  Little City Books,&nbsp;
+                </a>
+                <a
+                  rel="noopener noreferrer"
+                  href="https://www.powells.com/biblio/62-9781626197985-0"
+                  target="_blank"
+                >
+                  Powells
                 </a>
               </p>
             </div>
