@@ -5,7 +5,7 @@ import Wickedness from "../images/exquisite-wickedness.jpg";
 
 const BookGrid = () => {
   return (
-    <div className="bg-[#ede6d5] relative w-full z-20">
+    <div className="bg-[#ede6d5] relative w-full py-5 z-20">
       <div className="container-lg px-5 grid grid-cols-1 md:grid-cols-3 gap-12 lg:gap-16">
         <Card
           img={Wickedness}
