@@ -1,4 +1,5 @@
 import Headshot from "../images/amelinckx-headshot.jpg";
+import SocialMedia from "../components/SocialMedia";
 
 const Bio = () => {
   return (
@@ -24,15 +25,24 @@ const Bio = () => {
           before spending a decade as an award-winning investigative crime
           reporter for several news organizations, including the Pulitzer
           Prize-winning <em>Berkshire Eagle.</em> His work has appeared in{" "}
-          <em>Business</em>
-          Insider, <em>Smithsonian.com</em>, <em>Men’s Journal</em>,{" "}
+          <em>Insider,</em> <em>Smithsonian.com</em>, <em>Men’s Journal</em>,{" "}
           <em>Modern Farmer</em>, and elsewhere. He has an MFA with distinction
-          in painting from Pratt Institute. Andrew lives with his wife Kara and
-          dog Dashiell in New York’s Hudson Valley.
+          in painting from Pratt Institute. Andrew lives with his wife, Kara,
+          and dog, Dashiell, in New York’s Hudson Valley.
         </p>
         <p>
           Check out Andrew’s freelance writing work on{" "}
-          <a href="https://muckrack.com/theamelinckx/portfolio">Muck Rack.</a>
+          <a
+            href="https://muckrack.com/theamelinckx/portfolio"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Muck Rack.
+          </a>
+        </p>
+        <div className="h-3"></div>
+        <p className="ml-auto">
+          <SocialMedia />
         </p>
       </div>
     </div>
