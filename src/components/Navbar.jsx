@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="max-w-screen-xl mx-auto relative flex justify-between lg:items-center py-1.5 px-5 sm:px-10">
           <Link
             to="/"
-            className="text-3xl md:text-4xl font-header text-text hover:text-primary"
+            className="text-2xl md:text-4xl font-header text-text hover:text-primary"
             onClick={() => setNavbarOpen(false)}
           >
             Andrew Amelinckx
