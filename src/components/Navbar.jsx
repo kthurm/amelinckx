@@ -7,14 +7,13 @@ import { HiX } from "react-icons/hi";
 
 const Navbar = () => {
   const [navbarOpen, setNavbarOpen] = useState(false);
-
   return (
     <div>
       <div className="bg-[#FAF6EB] fixed w-full shadow-xl py-2 z-50">
         <div className="max-w-screen-xl mx-auto relative flex justify-between lg:items-center py-1.5 px-5 sm:px-10">
           <Link
             to="/"
-            className="text-4xl font-header text-text hover:text-primary"
+            className="text-3xl md:text-4xl font-header text-text hover:text-primary"
             onClick={() => setNavbarOpen(false)}
           >
             Andrew Amelinckx
@@ -23,11 +22,11 @@ const Navbar = () => {
           <nav
             className={
               navbarOpen
-                ? "absolute lg:relative bg-[#FAF6EB] shadow-xl lg:shadow-none right-5 top-8 lg:right-0 lg:top-0 transition duration-1000"
-                : "hidden lg:block"
+                ? "absolute right-0 top-[3rem] bg-[#FAF6EB] shadow-lg transition transform duration-500 opacity-100 translate-x-0"
+                : "opacity-0 translate-x-full h-0 lg:opacity-100 lg:translate-x-0 lg:h-full"
             }
           >
-            <ul className="flex flex-col lg:flex-row p-7 lg:p-0 space-y-4 lg:space-y-0 lg:space-x-7 uppercase font-body text-right text-sm font-bold">
+            <ul className="flex flex-col lg:flex-row p-6 lg:p-0 space-y-4 lg:space-y-0 lg:space-x-7 uppercase font-body text-right text-sm font-bold">
               {links.map(({ name, path }, index) => {
                 return (
                   <li key={index}>
@@ -44,14 +43,14 @@ const Navbar = () => {
             </ul>
           </nav>
           <button
-            className="block lg:hidden text-xl"
+            className="block lg:hidden text-xl z-50"
             onClick={() => setNavbarOpen((prev) => !prev)}
           >
             {!navbarOpen ? <HiMenu /> : <HiX />}
           </button>
         </div>
       </div>
-      <div className="space h-[4.3rem]"></div>
+      <div className="space h-[4rem] lg:h-[4.3rem]"></div>
     </div>
   );
 };

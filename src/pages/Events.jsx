@@ -1,8 +1,23 @@
 const Events = () => {
   return (
     <div className="container-lg flex flex-col space-y-6">
-      <h1>Future Events</h1>
+      <h1>Events</h1>
+      <h2>Satellite Boy Book Launch!</h2>
       <p>
+        <a href="https://www.instagram.com/nycitiot/">Citiot</a>
+        <br />
+        404 Main St. Catskill, NY
+        <br />
+        Saturday March 18th.
+        <br />
+        Book signing, cocktails and snacks
+        <br />
+        4pm-7pm
+        <br />
+        Author discussion: 5:30pm-6pm
+      </p>
+
+      <p className="py-5">
         <a href="https://eepurl.com/cDQVtH">Sign up for updates</a> and we’ll
         let you know where to catch Andrew next. We promise not to share your
         information with anyone else.

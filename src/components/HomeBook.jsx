@@ -10,6 +10,7 @@ const HomeBook = () => {
             alt="Satellite Boy"
             className="mx-auto max-w-[240px] shadow-[15px_16px_33px_-14px_rgba(0,0,0,0.75)] lg:mb-10 rounded-sm"
           />
+
           <p class="hidden md:block py-2 text-center text-sm px-5">
             Preorder Satellite Boy via{" "}
             <a
@@ -17,11 +18,21 @@ const HomeBook = () => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              &nbsp;Penguin Random House.
+              Penguin Random House.
+            </a>
+          </p>
+          <p class="hidden md:block py-2 text-center text-sm px-5">
+            Preorder a <b>signed copy</b> of Satellite Boy from
+            <a
+              href="https://www.oblongbooks.com/andrewamelinckx"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              &nbsp;Oblong Books.
             </a>
           </p>
         </div>
-        <div className="md:w-2/3 text-center md:text-left lg:mt-10 lg:pr-10 ">
+        <div className="md:w-2/3 text-center md:text-left mt-10 lg:pr-10 ">
           <div className="text-3xl uppercase font-bold">Satellite Boy</div>
           <div className="font-bold text-sm py-5 italic">
             The International Manhunt for a Master Thief That Launched the
@@ -58,6 +69,16 @@ const HomeBook = () => {
               landing and the Civil Rights movement, Satellite Boy tells the
               largely forgotten, high-stakes story of the two equally driven men
               who inadvertently launched the modern era.
+            </p>
+            <p>
+              Preorder a <b>signed copy</b> of Satellite Boy from
+              <a
+                href="https://www.oblongbooks.com/andrewamelinckx"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
+                &nbsp;Oblong Books.
+              </a>
             </p>
             <p>
               Preorder Satellite Boy via
