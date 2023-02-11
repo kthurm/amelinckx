@@ -29,6 +29,90 @@ const Press = () => {
         kleggett@arcadiapublishing.com
         <br />
       </p>
+
+      <h1>Reviews</h1>
+      <p>
+        "This colorful . . . dual biography mashes together the lives of
+        Canadian bank robber Georges Lemay and American engineer Harold Rosen .
+        . . Amelinckx lucidly explains the technical aspects and spotlights the
+        boon communication satellites provided to law enforcement agencies."{" "}
+        <em>—Publishers Weekly</em>
+      </p>
+
+      <p>
+        "Entertaining and colorful . . . Amelinckx’s book is ideal for both
+        true-crime and technology buffs." <em>—Library Journal</em>
+      </p>
+
+      <p>
+        "Hardened criminal meets the slide rule in a historical true-crime tale
+        . . . There are some nice twists and turns . . . True-crime buffs and
+        historians of technology will find points of interest."{" "}
+        <em>—Kirkus Reviews</em>
+      </p>
+
+      <p>
+        "An astonishing story from an astonishing era that will leave you
+        wondering, how is it possible I never heard of this before? That’s
+        because it took the brilliant investigative journalism and masterful
+        storytelling of Andrew Amelinckx to finally piece it all together and
+        bring it to life. All I can say is . . . Wow! Ocean’s Eleven meets 007,
+        but it’s all true! An artful masterpiece that will leave you breathless.
+        Good luck putting this one down." —Peter Houlahan, author of
+        <em> Norco '80</em>
+      </p>
+
+      <p>
+        "With a master storyteller's gift for character, pacing, suspense, and
+        detail, Amelinckx transports us from Montreal’s underworld to Havana,
+        Miami, Cape Canaveral, Los Angeles, and Las Vegas, all the while
+        balancing two extraordinary narratives whose arcs will inevitably
+        intersect. Amelinckx captures the riveting, cat-and-mouse game between
+        Lemay, a dashing and wily arch criminal whose high-stakes exploits
+        mesmerized all of Canada, and frustrated law enforcement officers in
+        both the U.S. and Canada, whom Lemay manages time and again to outfox.
+        While Lemay enjoys life on the lam, Harold Rosen, a visionary engineer,
+        is developing a science fiction fantasy into the world’s first
+        geosynchronous satellite, a technology that will transform
+        communications and put an end to Lemay’s freedom. In Satellite Boy,
+        Amelinckx deftly intertwines the unforgettable tales of these two men,
+        weaving a crisp and vivid, historical page-turner —James Campbell,
+        author of <em>Braving It</em>
+      </p>
+
+      <p>
+        "Andrew Amelinckx's Satellite Boy is a remarkable blend of good and
+        evil, weaving together the stories of two masterminds—one a technical
+        genius, one a murderous criminal—and the rise of a communications
+        technology that connects both their lives. It's science, it's mystery,
+        and it's a wholly additive read." —Deborah Blum, author of{" "}
+        <em>The Poisoner's Handbook: Murder</em> and{" "}
+        <em>the Birth of Forensic Medcine in Jazz Age New York</em>
+      </p>
+
+      <p>
+        "Satellite Boy combines a high drama caper tale with a pitch-perfect
+        examination of an era when technology felt breathtakingly new—if not
+        impossible. Amelinckx's characters are vivid and compelling, the period
+        details are lived in and authentic, and the story good and true. You'll
+        rocket right through." —Joe Drape, New York Times bestselling author of{" "}
+        <em>
+          Our Boys: A Perfect Season on the Plains with the Smith Center Redmen
+        </em>
+      </p>
+
+      <p>
+        "Satellite Boy by Andrew Amelinckx is one of the most entertaining,
+        original, and informative stories I've read in a long, long time. It
+        vividly brings to life the audacious and high-flying decade of the 1960s
+        and demonstrates how our most important technological innovations
+        sometimes come from the unlikeliest of circumstances. Amelinckx
+        masterfully combines crime, high tech, and history into a crackling
+        page-turner. And, amazingly, every word of it is true. Don't miss it!"
+        —David Bell, USA Today bestselling author of <em>She's Gone</em> and{" "}
+        <em>The Finalists</em>
+      </p>
+
       <h1>Press </h1>
       <p>
         The Ivy League Murders{" "}
