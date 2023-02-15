@@ -22,8 +22,8 @@ const Navbar = () => {
           <nav
             className={
               navbarOpen
-                ? "absolute right-0 top-[3rem] bg-[#FAF6EB] shadow-lg transition transform duration-500 opacity-100 translate-x-0"
-                : "opacity-0 translate-x-full h-0 lg:opacity-100 lg:translate-x-0 lg:h-full"
+                ? "absolute lg:relative right-0 top-[3.75rem] lg:top-0 bg-[#FAF6EB] shadow-lg lg:shadow-none transition transform duration-500 opacity-100 translate-x-0"
+                : "opacity-0 right-0 absolute lg:relative top-[3.75rem] lg:top-0 bg-[#FAF6EB] shadow-lg lg:shadow-none translate-x-full h-0 lg:opacity-100 lg:translate-x-0 lg:h-full duration-500"
             }
           >
             <ul className="flex flex-col lg:flex-row p-6 lg:p-0 space-y-4 lg:space-y-0 lg:space-x-7 uppercase font-body text-right text-sm font-bold">
