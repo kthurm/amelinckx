@@ -14,7 +14,8 @@ const Events = () => {
         <br />
         4pm-7pm
         <br />
-        Author discussion: 5:30pm-6pm
+        Andrew will be in conversation about Satellite Boy with filmmaker and
+        writer Niva Dorell at 5pm.
       </p>
 
       <p className="py-5">
