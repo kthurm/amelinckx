@@ -85,9 +85,9 @@ const Press = () => {
         evil, weaving together the stories of two masterminds—one a technical
         genius, one a murderous criminal—and the rise of a communications
         technology that connects both their lives. It's science, it's mystery,
-        and it's a wholly additive read." —Deborah Blum, author of{" "}
+        and it's a wholly addictive read." —Deborah Blum, author of{" "}
         <em>The Poisoner's Handbook: Murder</em> and{" "}
-        <em>the Birth of Forensic Medcine in Jazz Age New York</em>
+        <em>the Birth of Forensic Medicine in Jazz Age New York</em>
       </p>
 
       <p>
