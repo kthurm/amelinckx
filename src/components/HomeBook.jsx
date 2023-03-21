@@ -12,7 +12,7 @@ const HomeBook = () => {
           />
 
           <p class="hidden md:block py-2 text-center text-sm px-5">
-            Preorder Satellite Boy via{" "}
+            Order Satellite Boy via{" "}
             <a
               href="https://www.penguinrandomhouse.com/books/719641/satellite-boy-by-andrew-ameliinckx/"
               target="_blank"
@@ -22,7 +22,7 @@ const HomeBook = () => {
             </a>
           </p>
           <p class="hidden md:block py-2 text-center text-sm px-5">
-            Preorder a <b>signed copy</b> of Satellite Boy from
+            Order a <b>signed copy</b> of Satellite Boy from
             <a
               href="https://www.oblongbooks.com/andrewamelinckx"
               target="_blank"
@@ -71,7 +71,7 @@ const HomeBook = () => {
               who inadvertently launched the modern era.
             </p>
             <p>
-              Preorder a <b>signed copy</b> of Satellite Boy from
+              Order a <b>signed copy</b> of Satellite Boy from
               <a
                 href="https://www.oblongbooks.com/andrewamelinckx"
                 target="_blank"
@@ -81,7 +81,7 @@ const HomeBook = () => {
               </a>
             </p>
             <p>
-              Preorder Satellite Boy via
+              Order Satellite Boy via
               <a
                 href="https://www.penguinrandomhouse.com/books/719641/satellite-boy-by-andrew-ameliinckx/"
                 target="_blank"
