@@ -39,6 +39,13 @@ const HomeBook = () => {
             Modern Communication Age
           </div>
           <div className="flex flex-col space-y-4 font-light text-left text-sm">
+            <p class="font-bold">
+              “As with Erik Larson’s <em>The Devil in the White City</em>,
+              Amelinckx develops his two narratives suspensefully and in
+              excellent historical detail before braiding them together with the
+              skill of a master weaver. No account of the technocratic 1960s is
+              complete without this thrilling tale.”<em> —Booklist</em>
+            </p>
             <p>
               Spanning the hemisphere from the underworld haunts of Montreal to
               Havana and Miami in the early days of the Cold War, Satellite Boy
