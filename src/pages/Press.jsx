@@ -30,7 +30,42 @@ const Press = () => {
         <br />
       </p>
 
-      <h1>Reviews</h1>
+      <h1>Reviews/Press</h1>
+      <p>
+        “The quintessentially Space Age story of how the perfecter of the
+        geostationary satellite scuttled the career of a Montreal bank robber…
+        Mr. Amelinckx is an adroit storyteller and thorough researcher, and in
+        “Satellite Boy” he has written a good, engrossing yarn.”{" "}
+        <em>——Wall Street Journal</em>
+      </p>
+      <p>
+        “Amelinckx’s storytelling is a compelling way to help us make
+        connections to historical events, allowing the reader into the political
+        and social zeitgeist and to take stock of the possibilities of our
+        species in dark times.” —Matt Henderson, <em>Winnipeg Free Press</em>
+      </p>
+
+      <p>
+        “There are plenty of books on thrilling heists and the lives of skilled
+        thieves out there—but most of them don’t dovetail neatly in with the
+        annals of mass communication. With his book Satellite Boy, Andrew
+        Amelinckx takes the reader back to the 1960s and to a place where two
+        unlikely worlds converged. Think Heat by way of Marshall McLuhan.”
+        —Tobias Carroll, <em>InsideHook</em>
+      </p>
+
+      <p>
+        “A great story . . . It reads like a set piece from Ocean’s Eleven . . .
+        Entertaining.” —Betsy Maury, <em>Chronogram</em>
+      </p>
+
+      <p>
+        “As with Erik Larson’s <em>The Devil in the White City</em>, Amelinckx
+        develops his two narratives suspensefully and in excellent historical
+        detail before braiding them together with the skill of a master weaver.
+        No account of the technocratic 1960s is complete without this thrilling
+        tale.”<em> —Booklist</em>
+      </p>
       <p>
         "This colorful . . . dual biography mashes together the lives of
         Canadian bank robber Georges Lemay and American engineer Harold Rosen .
@@ -113,7 +148,6 @@ const Press = () => {
         <em>The Finalists</em>
       </p>
 
-      <h1>Press </h1>
       <p>
         The Ivy League Murders{" "}
         <a
